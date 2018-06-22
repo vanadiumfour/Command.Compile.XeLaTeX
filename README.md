@@ -1,2 +1,2 @@
 # Command.Compile.XeLaTeX
-Example Script
+Requires compiler already in path
